@@ -17,5 +17,4 @@ download zip disini atau clone : git clone https://github.com/mukhlish32/silsila
 
 Note : Untuk visualisasi tree masih progress
 
-Author
-Muhammad Mukhlish Syarif
+
