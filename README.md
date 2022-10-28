@@ -1,5 +1,5 @@
 # Tentang
-silsilahCRUD adalah aplikasi sederana yang dibuat dengan framework laravel 9 untuk menampilkan silsilah keluarga.
+silsilahCRUD adalah aplikasi sederhana yang dibuat dengan framework laravel 9 untuk menampilkan silsilah keluarga.
 
 # Instalasi
 download zip disini atau clone : git clone https://github.com/mukhlish32/silsilahCRUD/
